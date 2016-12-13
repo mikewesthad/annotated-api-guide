@@ -14,7 +14,7 @@ This list is a collection of APIs I've used along with many pulled from afeld's 
 
 -   Make a note about which APIs use HTTP and which use HTTPS
 -   Add a section on proxying HTTPS
--   Add a section on CORS proxys like <http://cors-anywhere.herokuapp.com/> or <http://crossorigin.me/>
+-   Add a section on CORS proxies like <http://cors-anywhere.herokuapp.com/> or <http://crossorigin.me/>
 -   Add some sample code for how to get JSON and JSONP
 -   Finish integrating other mega-lists of APIs and annotating them
 
